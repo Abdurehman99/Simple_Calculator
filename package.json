@@ -1,0 +1,19 @@
+{
+  "name": "abdurehman_simple_calculator",
+  "version": "1.0.0",
+  "description": "Simple calculator which will allow us to calculate in any form",
+  "main": "index.js",
+  "bin": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdurehman",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
